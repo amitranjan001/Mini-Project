@@ -1,2 +1,2 @@
 # Mini-Project
-Mini project with the help of  Html, CSS &amp; Java Script
+Mini project with the help of  Html, CSS  Java Script &amp; React.
